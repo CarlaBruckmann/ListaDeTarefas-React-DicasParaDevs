@@ -2,16 +2,19 @@
 ### _`Curso: React para Completos Iniciantes - Canal Youtube: Dicas para Devs`_
 
 ### :white_check_mark: Material abordado no Curso: create-react-app, JSX, componentes funcionais e style condicional, props, react-router-dom, uuid, useEffect, useState, useHistory, react-icons, parâmetros na URL, axios, chamar uma API.
-<br>
-## :rocket: A Aplicação:
+
+
+## A Aplicação:<br>
+
 ### Na página inicial, usuário pode inserir tarefas à serem cumpridas, marcar como realizadas, ver detalhes ou excluir.
 
-## Utilizando a Aplicação: 
-###Basta executar os seguintes comandos na raíz do projeto:
+## Utilizando a Aplicação: <br>
 
-####`npm install` 
+### Basta executar os seguintes comandos na raíz do projeto:
 
-####`npm start`
+#### `npm install` 
+
+#### `npm start`
 <br>
 
 [Preview - Home]
